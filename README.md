@@ -1,6 +1,8 @@
-# Template
+# Template Angular Project
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.1.
+
+I made this as I was tired of always having to look things up you end up doing once per project
 
 ## Development server
 
