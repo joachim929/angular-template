@@ -4,6 +4,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 I made this as I was tired of always having to look things up you end up doing once per project
 
+If this doesn't look like a template project, I obviously forgot to change the README
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
